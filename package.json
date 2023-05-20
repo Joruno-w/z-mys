@@ -25,8 +25,5 @@
     "dist/",
     "package.json",
     "README.md"
-  ],
-  "dependencies": {
-    "@types/node": "^20.2.0"
-  }
+  ]
 }
